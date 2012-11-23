@@ -1,0 +1,3 @@
+[submodule "deadbeef"]
+	path = deadbeef
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/deadbeef

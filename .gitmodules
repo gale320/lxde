@@ -1,3 +1,93 @@
 [submodule "deadbeef"]
 	path = deadbeef
 	url = git://lxde.git.sourceforge.net/gitroot/lxde/deadbeef
+[submodule "devtools"]
+	path = devtools
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/devtools
+[submodule "gpicview"]
+	path = gpicview
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/gpicview
+[submodule "ldm-gtk-builder-greeter"]
+	path = ldm-gtk-builder-greeter
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/ldm-gtk-builder-greeter
+[submodule "lxadmin"]
+	path = lxadmin
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxadmin
+[submodule "lxappearance"]
+	path = lxappearance
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxappearance
+[submodule "lxappearance-obconf"]
+	path = lxappearance-obconf
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxappearance-obconf
+[submodule "lxde"]
+	path = lxde
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/
+[submodule "lxde-common"]
+	path = lxde-common
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxde-common
+[submodule "lxde-icon-theme"]
+	path = lxde-icon-theme
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxde-icon-theme
+[submodule "lxdm"]
+	path = lxdm
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxdm
+[submodule "lxinput"]
+	path = lxinput
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxinput
+[submodule "lxkb_config"]
+	path = lxkb_config
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxkb_config
+[submodule "lxlauncher"]
+	path = lxlauncher
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxlauncher
+[submodule "lxmenu-data"]
+	path = lxmenu-data
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxmenu-data
+[submodule "lxmusic"]
+	path = lxmusic
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxmusic
+[submodule "lxpanel"]
+	path = lxpanel
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxpanel
+[submodule "lxpanel-plugins"]
+	path = lxpanel-plugins
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxpanel-plugins
+[submodule "lxpanel-xmms2"]
+	path = lxpanel-xmms2
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxpanel-xmms2
+[submodule "lxpanel2"]
+	path = lxpanel2
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxpanel2
+[submodule "lxpolkit"]
+	path = lxpolkit
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxpolkit
+[submodule "lxrandr"]
+	path = lxrandr
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxrandr
+[submodule "lxscreenshot"]
+	path = lxscreenshot
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxscreenshot
+[submodule "lxsession"]
+	path = lxsession
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxsession
+[submodule "lxsession-edit"]
+	path = lxsession-edit
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxsession-edit
+[submodule "lxshortcut"]
+	path = lxshortcut
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxshortcut
+[submodule "lxsysmon"]
+	path = lxsysmon
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxsysmon
+[submodule "lxtask"]
+	path = lxtask
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxtask
+[submodule "lxterminal"]
+	path = lxterminal
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/lxterminal
+[submodule "menu-cache"]
+	path = menu-cache
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/menu-cache
+[submodule "obsolete"]
+	path = obsolete
+	url = git://lxde.git.sourceforge.net/gitroot/lxde/obsolete
